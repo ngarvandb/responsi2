@@ -1,0 +1,6 @@
+D:\Responsi2Pemograman_2900\ProjectPenjualan\bin\Debug\ProjectPenjualan.exe
+D:\Responsi2Pemograman_2900\ProjectPenjualan\bin\Debug\ProjectPenjualan.pdb
+D:\Responsi2Pemograman_2900\ProjectPenjualan\obj\Debug\ProjectPenjualan.csprojAssemblyReference.cache
+D:\Responsi2Pemograman_2900\ProjectPenjualan\obj\Debug\ProjectPenjualan.csproj.CoreCompileInputs.cache
+D:\Responsi2Pemograman_2900\ProjectPenjualan\obj\Debug\ProjectPenjualan.exe
+D:\Responsi2Pemograman_2900\ProjectPenjualan\obj\Debug\ProjectPenjualan.pdb
